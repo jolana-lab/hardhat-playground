@@ -25,4 +25,4 @@ We're going to create a simple **smart contract** that implements a token that c
 
 ## References
 
-- [#Hardhat's tutorial for beginners](https://hardhat.org/tutorial)
+- [Hardhat's tutorial for beginners](https://hardhat.org/tutorial)
